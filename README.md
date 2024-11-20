@@ -37,8 +37,10 @@ Use Plotly to visualize data and uncover insights into your waste patterns.
 ### Clone the Repository:
 `git clone https://github.com/<your-username>/<repository-name>.git`
 
-###Install Dependencies:
+### Install Dependencies:
 `pip install -r requirements.txt`
+
+Enter your api key in `.streamlit/secrets.toml` file
 
 ### Run the App:
 `streamlit run app.py`
