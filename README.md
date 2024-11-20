@@ -47,7 +47,7 @@ Streamlit will automatically open your default browser at http://localhost:8501.
 
 ## 🌐 Live Demo
 Check out the live version of the app here! 🚀
-https://wasteai-olzydbumujuqoopanqw63y.streamlit.app/
+[https://wasteai-olzydbumujuqoopanqw63y.streamlit.app/](https://wasteai-zbo5bieytkpwdfhanlwpee.streamlit.app/)
 
 ## 📦 Project Structure
 
