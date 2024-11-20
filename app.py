@@ -179,7 +179,7 @@ def load_config(file_path: str) -> Dict[str, Any]:
 
 def setup_gemini(config: Dict[str, Any]):
     try:
-        genai.configure(api_key=config['API']['API_KEY'])
+        genai.configure(api_key=st.secrets[API_KEY])
         
         safety_settings = {
             HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_ONLY_HIGH,
