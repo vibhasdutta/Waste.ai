@@ -1,9 +1,4 @@
 {
-
-    "API" : {
-        "API_KEY" : "your api key"
-    },
-    
     "generation_config" : {
         "temperature": 1,
         "top_p": 0.95,
